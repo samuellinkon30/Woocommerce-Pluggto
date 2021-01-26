@@ -1,0 +1,208 @@
+2021-01-26T21:26:09+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => ab1c73d50ae1c911a097771dd708376a
+            [Date] => 26 de janeiro de 2021 @ 21:26
+            [URL] => http://woocommerce.plugg.to/api/woocommerce/notifications/product/update/4
+            [Duration] => 1.97043
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.9.2 Hookshot (WordPress/5.6)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/integracao/
+                            [X-WC-Webhook-Topic] => product.created
+                            [X-WC-Webhook-Resource] => product
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => ILeiB37nOs8EYhd3SmHOWMp5JqGEkGSMCXAh7WzhsS8=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => ab1c73d50ae1c911a097771dd708376a
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 401
+                    [Message] => Unauthorized
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 26 Jan 2021 21:26:09 GMT
+                                    [server] => Apache/2.4.29 (Ubuntu)
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 60
+                                    [x-ratelimit-remaining] => 59
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-01-26T22:33:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 1c13a5ed98579b61f0b8af20cc3ef589
+            [Date] => 26 de janeiro de 2021 @ 22:33
+            [URL] => http://woocommerce.plugg.to/api/woocommerce/notifications/order/update/4
+            [Duration] => 1.21055
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.9.2 Hookshot (WordPress/5.6)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/integracao/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => ZjrmRngn8ShYR0Vxa8hvaKTAa9d6yovufiSZTwyOetw=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 1c13a5ed98579b61f0b8af20cc3ef589
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 401
+                    [Message] => Unauthorized
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 26 Jan 2021 22:33:12 GMT
+                                    [server] => Apache/2.4.29 (Ubuntu)
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 60
+                                    [x-ratelimit-remaining] => 59
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-01-26T22:41:17+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => 94ce7f80f8acd06c3c77db21a88b47e1
+            [Date] => 26 de janeiro de 2021 @ 22:41
+            [URL] => http://woocommerce.plugg.to/api/woocommerce/notifications/order/update/4
+            [Duration] => 1.78439
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.9.2 Hookshot (WordPress/5.6)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/integracao/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => OCkUmjJftKIk+x68CharZ6cAomR6SFHBAiL45eZofGA=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => 94ce7f80f8acd06c3c77db21a88b47e1
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 401
+                    [Message] => Unauthorized
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 26 Jan 2021 22:41:17 GMT
+                                    [server] => Apache/2.4.29 (Ubuntu)
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 60
+                                    [x-ratelimit-remaining] => 59
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
+2021-01-26T22:49:20+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => c3c50ba1c3832337ab8ab55c6bf94f8b
+            [Date] => 26 de janeiro de 2021 @ 22:49
+            [URL] => http://woocommerce.plugg.to/api/woocommerce/notifications/order/update/4
+            [Duration] => 1.93189
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/4.9.2 Hookshot (WordPress/5.6)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => http://localhost/integracao/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => FV90kkrPagd9gxESUc5B+84smLDzYsEdT7MJzLKrf1E=
+                            [X-WC-Webhook-ID] => 4
+                            [X-WC-Webhook-Delivery-ID] => c3c50ba1c3832337ab8ab55c6bf94f8b
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 401
+                    [Message] => Unauthorized
+                    [Headers] => Requests_Utility_CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [date] => Tue, 26 Jan 2021 22:49:20 GMT
+                                    [server] => Apache/2.4.29 (Ubuntu)
+                                    [cache-control] => no-cache, private
+                                    [x-ratelimit-limit] => 60
+                                    [x-ratelimit-remaining] => 59
+                                    [content-type] => application/json
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+
